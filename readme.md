@@ -15,8 +15,8 @@
 
 Вы можете со мною связаться здесь:
 
-- [za.boal@vk.com](mailto://za.boal@vk.com) & [za.boal@ya.ru](mailto://za.boal@ya.ru),
-- [zaboal@telegram](tg://resolve?domain=zaboal) & [zaboal@vk](https://vk.com/zaboal).
+- [za.boal@vk.com](mailto://za.boal@vk.com) или [za.boal@ya.ru](mailto://za.boal@ya.ru),
+- [zaboal@telegram](https://t.me/zaboal) или [zaboal@vk](https://vk.com/zaboal).
 
 
 ## Ведение репозиториев
