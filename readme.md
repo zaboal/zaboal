@@ -14,9 +14,8 @@
 По планам, не действительности, так как на момент этой версии `readme` мне 15, моя карьера неотъемлемо будет связана с разработкой ПО. Следовательно создать хороший профиль для будущих коллег не помешает.
 
 Вы можете со мною связаться здесь:
-
-- [za.boal@vk.com](mailto://za.boal@vk.com) или [za.boal@ya.ru](mailto://za.boal@ya.ru),
-- [zaboal@telegram](https://t.me/zaboal) или [zaboal@vk](https://vk.com/zaboal).
+- **[za.boal@vk.com](mailto://za.boal@vk.com)** или [za.boal@ya.ru](mailto://za.boal@ya.ru),
+- **[zaboal@telegram](https://t.me/zaboal)** или [zaboal@vk](https://vk.com/zaboal).
 
 
 ## Ведение репозиториев
