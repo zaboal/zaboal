@@ -1,6 +1,8 @@
-= stack
+[cols="1,1"]
+|===
+| stack | personal projects principles
 
-**i code in https://w.wiki/9VuF[`go`]**. when i was 10 i'd been programming in
+| **i code in https://w.wiki/9VuF[`go`]**. when i was 10 i'd been programming in
 https://w.wiki/35Gx[`c++`] and got used to static typing, so i didn't like
 https://w.wiki/PoF[`python`] and https://w.wiki/5WMt[`typescript`] with their cosmetic
 types. have tried https://w.wiki/8yNr[`haskell`], https://w.wiki/9VuP[`ruby`],
@@ -15,15 +17,14 @@ and other forgettable.
 **i code with https://w.wiki/3oas[`vscode`]** as it universal and easier to setup for 
 small projects in opposite to https://w.wiki/PoB[`vim`]. https://w.wiki/9VuY[`emacs`] goes against unix.
 
-
-= personal projects principles
-
-**minuscule**:: uppercase from the origin was an emphasis tool and doesn't 
+| **minuscule**: uppercase from the origin was an emphasis tool and doesn't 
 play any role in grammar. dot stands for sentence ending. so i dont
 press shift when write comments and logs. an emblem for it is 🔡, as 
 an opposite for 🔠.
 
-**disabbreviation**:: to make consistent file structure, where are 
+**disabbreviation**: to make consistent file structure, where are 
 "`internal`" and "`pkg`" or "`cmd`" in same place, i disabbreviate 
 them to "`packages`" and "`commands`". novadays there is no need
 in short names with auto-completion and in-shell abbreviations.
+
+|===
