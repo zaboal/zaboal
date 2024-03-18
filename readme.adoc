@@ -12,7 +12,7 @@ https://w.wiki/9VuT[`raku`], and other forgettable.
 my want to hack a wi-fi coincided with father's new business: programming for children 
 on a site with thinkpads. had take one and tried https://w.wiki/9VuS[`debian`], 
 https://w.wiki/5kfD[`opensuse`], https://w.wiki/9VuV[`arch`], https://w.wiki/7caP[`fedora`], 
-and other forgettable.
+and other unspecial.
 
 **with https://w.wiki/3oas[`vscode`]** as it more universal and easier than https://w.wiki/PoB[`vim`].
 
