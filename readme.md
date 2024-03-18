@@ -1,1 +1,5 @@
-i prefer [codeberg](https://codeberg.org/zba) instead
+# principles
+
+## minuscule
+
+## disabbreviation
