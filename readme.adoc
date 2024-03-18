@@ -10,7 +10,7 @@ https://w.wiki/9VuT[`raku`], and other forgettable.
 
 **for https://w.wiki/S5C[`linux`]**. in the same ages,
 my want to hack a wi-fi coincided with father's new business: programming for teens 
-on thinkpads with https://w.wiki/9VvY[`lubuntu`]. had take one and tried https://w.wiki/9VuS[`debian`], 
+on thinkpads with https://w.wiki/9VvY[`lubuntu`]. had taken one and tried https://w.wiki/9VuS[`debian`], 
 https://w.wiki/5kfD[`opensuse`], https://w.wiki/9VuV[`arch`], https://w.wiki/7caP[`fedora`], 
 and other.
 
@@ -23,7 +23,7 @@ an opposite for 🔠.
 
 **disabbreviation**: to make consistent file structure, where are 
 "`internal`" and "`pkg`" or "`cmd`" in same place, i disabbreviate 
-them to "`packages`" and "`commands`". novadays there is no need
-in short names with auto-completion and in-shell abbreviations.
+them to "`packages`" and "`commands`". nowadays there is no need
+for short names with auto-completion and in-shell abbreviations.
 
 |===
