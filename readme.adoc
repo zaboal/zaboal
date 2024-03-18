@@ -19,8 +19,9 @@ small projects in opposite to https://w.wiki/PoB[`vim`]. https://w.wiki/9VuY[`em
 = personal projects principles
 
 **minuscule**:: uppercase from the origin was an emphasis tool and doesn't 
-play any role in grammar. dot stands for sentence ending. an emblem 
-for it is 🔡, as an opposite for 🔠.
+play any role in grammar. dot stands for sentence ending. so i dont
+press shift when write comments and logs. an emblem for it is 🔡, as 
+an opposite for 🔠.
 
 **disabbreviation**:: to make consistent file structure, where are 
 "`internal`" and "`pkg`" or "`cmd`" in same place, i disabbreviate 
