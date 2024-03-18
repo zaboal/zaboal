@@ -10,7 +10,7 @@ https://w.wiki/9VuT[`raku`], and other forgettable.
 
 **for https://w.wiki/S5C[`linux`]**. in the same ages,
 my want to hack a wi-fi coincided with father's new business: programming for children 
-on thinkpads with lubuntu. had take one and tried https://w.wiki/9VuS[`debian`], 
+on a site with thinkpads. had take one and tried https://w.wiki/9VuS[`debian`], 
 https://w.wiki/5kfD[`opensuse`], https://w.wiki/9VuV[`arch`], https://w.wiki/7caP[`fedora`], 
 and other forgettable.
 
