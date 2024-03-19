@@ -1,11 +1,11 @@
-// links
-:icons: https://unpkg.com/@tabler/icons@3.1.0/icons/outline/
+// adresses shorts
+// :icons: https://unpkg.com/@tabler/icons@3.1.0/icons/outline/
 :wiki: https://w.wiki/
 
-// linked to wiki stack icons
-:vscode: image:{icons}brand-vscode.svg[]
-:debian: image:{icons}brand-debian.svg[]
-:golang: image:{icons}brand-golang.svg[]
+// stack icons
+:vscode: image:https://unpkg.com/@tabler/icons@3.1.0/icons/outline/brand-vscode.svg[]
+:debian: image:https://unpkg.com/@tabler/icons@3.1.0/icons/outline/brand-debian.svg[]
+:golang: image:https://unpkg.com/@tabler/icons@3.1.0/icons/outline/brand-golang.svg[]
 
 
 [cols="<1,<1"]
