@@ -1,21 +1,31 @@
+// links
+:icons: https://unpkg.com/@tabler/icons@3.1.0/icons/outline/
+:wiki: https://w.wiki/
+
+// linked to wiki stack icons
+:vscode: {wiki}3oas[image:{icons}brand-vscode.svg[]]
+:debian: {wiki}9VuS[image:{icons}brand-debian.svg[]]
+:golang: {wiki}9VuF[image:{icons}brand-golang.svg[]]
+
+
 [cols="<1,<1"]
 |===
 | i code… (stack) | personal projects principles
 
-| **in https://w.wiki/9VuF[`go`]**. when i was 10 i'd been programming in
-https://w.wiki/35Gx[`c++`] and got used to static typing, so i didn't like
-https://w.wiki/PoF[`python`] and https://w.wiki/5WMt[`typescript`] with their
-cosmetic types. have tried https://w.wiki/8yNr[`haskell`],
-https://w.wiki/9VuP[`ruby`], https://w.wiki/9VuT[`raku`], and other forgettable.
+| **in {golang}**. when i was 10 i'd been programming in
+{wiki}35Gx[`c++`] and got used to static typing, so i didn't like
+{wiki}PoF[`python`] and {wiki}5WMt[`typescript`] with their
+cosmetic types. have tried {wiki}8yNr[`haskell`],
+{wiki}9VuP[`ruby`], {wiki}9VuT[`raku`], and other forgettable.
 
-**for https://w.wiki/S5C[`linux`]**. in the same ages, my want to hack a wi-fi
+**for {debian}**. in the same ages, my want to hack a wi-fi
 coincided with father's new business: programming for teens on thinkpads with
-https://w.wiki/9VvY[`lubuntu`]. had taken one and tried
-https://w.wiki/9VuS[`debian`], https://w.wiki/5kfD[`opensuse`],
-https://w.wiki/9VuV[`arch`], https://w.wiki/7caP[`fedora`], and other.
+{wiki}9VvY[`lubuntu`]. had taken one and tried
+{wiki}9VuS[`debian`], {wiki}5kfD[`opensuse`],
+{wiki}9VuV[`arch`], {wiki}7caP[`fedora`], and other.
 
-**with https://w.wiki/3oas[`vscode`]** as it more universal and easier than
-https://w.wiki/PoB[`vim`].
+**with {vscode}** as it more universal and easier than
+{wiki}PoB[`vim`].
 
 | **minuscule**: uppercase from the origin was an emphasis tool and doesn't play
 any role in grammar. dot stands for sentence ending. so i dont press shift when
@@ -27,5 +37,6 @@ and "`pkg`" or "`cmd`" in same place, i disabbreviate them to "`packages`" and
 in-shell abbreviations.
 
 |===
+
 
 *read further*: link:ru/autobio.adoc[автобиография] 
