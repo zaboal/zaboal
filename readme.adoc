@@ -1,30 +1,24 @@
 // adresses shorts
-// :icons: https://unpkg.com/@tabler/icons@3.1.0/icons/outline/
 :wiki: https://w.wiki/
-
-// stack icons
-:vscode: image:https://unpkg.com/@tabler/icons@3.1.0/icons/outline/brand-vscode.svg[]
-:debian: image:https://unpkg.com/@tabler/icons@3.1.0/icons/outline/brand-debian.svg[]
-:golang: image:https://unpkg.com/@tabler/icons@3.1.0/icons/outline/brand-golang.svg[]
 
 
 [cols="<1,<1"]
 |===
 | i code… (stack) | personal projects principles
 
-| **in {wiki}9VuF[{golang}]**. when i was 10 i'd been programming in
+| **in {wiki}9VuF[`go`]**. when i was 10 i'd been programming in
 {wiki}35Gx[`c++`] and got used to static typing, so i didn't like
 {wiki}PoF[`python`] and {wiki}5WMt[`typescript`] with their
 cosmetic types. have tried {wiki}8yNr[`haskell`],
 {wiki}9VuP[`ruby`], {wiki}9VuT[`raku`], and other forgettable.
 
-**for {wiki}9VuS[{debian}]**. in the same ages, my want to hack a wi-fi
+**for {wiki}S5C[`linux`]**. in the same ages, my want to hack a wi-fi
 coincided with father's new business: programming for teens on thinkpads with
 {wiki}9VvY[`lubuntu`]. had taken one and tried
 {wiki}9VuS[`debian`], {wiki}5kfD[`opensuse`],
 {wiki}9VuV[`arch`], {wiki}7caP[`fedora`], and other.
 
-**with {wiki}3oas[{vscode}]** as it more universal and easier than
+**with {wiki}3oas[`vscode`]** as it more universal and easier than
 {wiki}PoB[`vim`].
 
 | **minuscule**: uppercase from the origin was an emphasis tool and doesn't play
