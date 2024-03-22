@@ -27,7 +27,7 @@ jobs:
       - name: bio
         run: |
           curl -L \
-          -x PATCH \
+          -X PATCH \
           -H "Accept: application/vnd.github+json" \
           -H "Authorization: Bearer ${{ secrets.TOKEN_GITHUB }}" \
           -H "X-GitHub-Api-Version: 2022-11-28" \
