@@ -1,7 +1,9 @@
 name: sync-the-fields
 
 on: 
-  push
+  push:
+    paths:
+      - fields/*
 
 jobs:
   sync-the-fields:
