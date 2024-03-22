@@ -3,32 +3,38 @@
 
 
 [cols="<1,<1"]
+
 |===
+
 | i code… (stack) | personal projects principles
 
-| **in {wiki}9VuF[`go`]**. when i was 10 i'd been programming in
-{wiki}35Gx[`c++`] and got used to static typing, so i didn't like
-{wiki}PoF[`python`] and {wiki}5WMt[`typescript`] with their
-cosmetic types. have tried {wiki}8yNr[`haskell`],
-{wiki}9VuP[`ruby`], {wiki}9VuT[`raku`], and other forgettable.
+| 
 
-**for {wiki}S5C[`linux`]**. in the same ages, my want to hack a wi-fi
-coincided with father's new business: programming for teens on thinkpads with
-{wiki}9VvY[`lubuntu`]. had taken one and tried
-{wiki}9VuS[`debian`], {wiki}5kfD[`opensuse`],
-{wiki}9VuV[`arch`], {wiki}7caP[`fedora`], and other.
+**in {wiki}9VuF[`go`]**. when i was 10 i'd been programming in
+{wiki}35Gx[`c++`] and got used to static typing, so i didn't like
+{wiki}PoF[`python`] and {wiki}5WMt[`typescript`] with their cosmetic types. have
+tried {wiki}8yNr[`haskell`], {wiki}9VuP[`ruby`], {wiki}9VuT[`raku`], and other
+forgettable.
+
+**for {wiki}S5C[`linux`]**. in the same ages, my want to hack a wi-fi coincided
+with father's new business: programming for teens on thinkpads with
+{wiki}9VvY[`lubuntu`]. had taken one and tried {wiki}9VuS[`debian`],
+{wiki}5kfD[`opensuse`], {wiki}9VuV[`arch`], {wiki}7caP[`fedora`], and other.
 
 **with {wiki}3oas[`vscode`]** as it more universal and easier than
 {wiki}PoB[`vim`].
 
-| **minuscule**: uppercase from the origin was an emphasis tool and doesn't play
-any role in grammar. dot stands for sentence ending. so i dont press shift when
-write comments and logs. an emblem for it is 🔡, as an opposite for 🔠.
+| 
 
-**disabbreviation**: to make consistent file structure, where are "`internal`"
-and "`pkg`" or "`cmd`" in same place, i disabbreviate them to "`packages`" and
-"`commands`". nowadays there is no need for short names with auto-completion and
-in-shell abbreviations.
+**lowercase logs and comments**: uppercase from the origin was an emphasis
+tool and doesn't play any role in grammar. dot stands for sentence ending. so i
+dont press shift when write comments and logs. an emblem for it is 🔡, as an
+opposite for 🔠.
+
+**directories disabbreviation**: to make consistent file structure, where are
+"`internal`" and "`pkg`" or "`cmd`" in same place, i disabbreviate them to
+"`packages`" and "`commands`". nowadays there is no need for short names with
+auto-completion and in-shell abbreviations.
 
 |===
 
