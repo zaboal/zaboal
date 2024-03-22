@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="192"
+   height="192"
+   viewBox="0 0 192 192"
+   version="1.1"
+   id="svg135"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="cyrillic-inital.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview137"
+     pagecolor="#04030f"
+     bordercolor="#14131f"
+     borderopacity="1"
+     inkscape:showpageshadow="true"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#04030f"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.0690491"
+     inkscape:cx="93.07337"
+     inkscape:cy="103.83059"
+     inkscape:window-width="1600"
+     inkscape:window-height="840"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showborder="true"
+     borderlayer="false"
+     shape-rendering="crispEdges">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1123"
+       spacingx="64"
+       spacingy="64"
+       empspacing="4"
+       color="#4433ff"
+       opacity="0.06666667"
+       empcolor="#4433ff"
+       empopacity="0.2"
+       visible="true"
+       snapvisiblegridlinesonly="true"
+       dotted="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs132" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect378"
+       style="fill:#ffffff;stroke-width:1.23656;stroke-opacity:0;stroke:none;fill-opacity:1"
+       d="M 0,0 V 64.000003 H 64.000003 V 128 H 0 v 64 H 64.000003 128 v -64 h 64 V 64.000003 H 128 V 0 H 64.000003 Z" />
+  </g>
+  <metadata
+     id="metadata1125">
+    <rdf:RDF>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+      </cc:License>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
