@@ -2,7 +2,7 @@
 :wiki: https://w.wiki/
 
 
-*на русском → link:ru/readme.adoc[`./ru/readme.adoc`]*
+*на русском → link:docs/ru/readme.adoc[`./docs/ru/readme.adoc`]*
 
 
 |===
