@@ -2,8 +2,6 @@
 :wiki: https://w.wiki/
 
 
-[cols="<1,<1"]
-
 |===
 
 | i code… | personal projects principles
