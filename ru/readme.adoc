@@ -44,5 +44,5 @@
 
 == читайте далее
 
-- link:ru/autobio.adoc[автобиография] 
+- link:autobio.adoc[автобиография] 
 - https://registry.jsonresume.org/zaboal[резюме на json]
