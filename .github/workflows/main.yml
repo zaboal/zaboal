@@ -4,27 +4,16 @@ on:
   push
 
 jobs:
-  checkout:
-    name: clone the fields dir
+  sync-the-fields:
+    needs: checkout
+    name: sync the fields in my profiles
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
           sparse-checkout: 'fields' 
           sparse-checkout-cone-mode: false
-      - run: |
-          ls -lah
-          shopt -s dotglob
-          mv fields/* .
-          rm -rf fields
-          ls -lah
-
-  sync-the-fields:
-    needs: checkout
-    name: sync the fields in my profiles
-    runs-on: ubuntu-latest
-    steps:
-      - name: bio
+      - name: sync bio
         run: |
           ls -lah
           curl -L \
@@ -33,4 +22,4 @@ jobs:
           -H "Authorization: Bearer ${{ secrets.TOKEN_GITHUB }}" \
           -H "X-GitHub-Api-Version: 2022-11-28" \
           https://api.github.com/user \
-          -d '{"bio": "$(<bio)"}'
+          -d '{"bio": "$(<fileds/bio)"}'
