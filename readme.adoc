@@ -2,6 +2,15 @@
 :wiki: https://w.wiki/
 
 
+.*на русском*
+[%collapsible]
+====
+- link:ru/readme.adoc[перевод readme]
+- link:ru/autobio.adoc[автобиография] 
+- https://registry.jsonresume.org/zaboal[резюме на json]
+====
+
+
 |===
 
 | i code… | personal projects principles
@@ -35,6 +44,3 @@ for 🔠.
 auto-completion and in-shell abbreviations.
 
 |===
-
-
-*read further*: link:ru/autobio.adoc[автобиография] 
