@@ -2,13 +2,7 @@
 :wiki: https://w.wiki/
 
 
-.*на русском*
-[%collapsible]
-====
-- link:ru/readme.adoc[перевод readme]
-- link:ru/autobio.adoc[автобиография] 
-- https://registry.jsonresume.org/zaboal[резюме на json]
-====
+*на русском → link:ru/readme.adoc[`./ru/readme.adoc`]*
 
 
 |===
