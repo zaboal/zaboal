@@ -1,10 +1,11 @@
-// uri-s cutting: "vk.com/id" is the static profile address prefix in vkontakte;
-// the social media "qrwp.org" is the multilingual redirect to wikipedia
+// ----
+// uri-s cutting: "vk.com/id" is the static profile address prefix in vkontakte,
+// the social media; "qrwp.org" is the multilingual redirect to wikipedia
 // (check the page's existance on russian first).
-
 :h: https://
 :v: {h}vk.com/id
 :w: {h}ru.qrwp.org/
+// ----
 
 
 == родился 15 января 2007 года
