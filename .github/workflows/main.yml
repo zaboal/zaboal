@@ -5,7 +5,6 @@ on:
 
 jobs:
   sync-the-fields:
-    needs: checkout
     name: sync the fields in my profiles
     runs-on: ubuntu-latest
     steps:
