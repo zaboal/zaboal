@@ -3,7 +3,7 @@
 :wiki: {h}w.wiki/
 
 
-*on english → link:../en/profile-readme.adoc[`../../profile-readme.adoc`]*
+*on english → link:../en/profile-readme.adoc[`/docs/en/profile-readme.adoc`]*
 
 |===
 

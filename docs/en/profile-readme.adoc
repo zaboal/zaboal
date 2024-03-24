@@ -3,8 +3,8 @@
 :wiki: {h}w.wiki/
 
 
-*на русском → link:../ru/profile-readme.adoc[`./docs/ru/profile-readme.adoc`]*
-
+// the link must go as from .github
+*на русском → link:../docs/ru/profile-readme.adoc[`/docs/ru/profile-readme.adoc`]*
 
 |===
 
