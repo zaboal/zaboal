@@ -3,8 +3,7 @@
 :wiki: {h}w.wiki/
 
 
-*на русском → link:../ru/profile-readme.adoc[`./docs/ru/profile-readme.adoc`]*
-
+*на русском → link:../ru/profile-readme.adoc[`/docs/ru/profile-readme.adoc`]*
 
 |===
 
