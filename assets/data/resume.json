@@ -1,0 +1,213 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "meta": {
+        "canonical": "https://github.com/zaboal/resume",
+        "lastModified": "2024-01",
+        "theme": "stackoverflow"
+    },
+    "basics": {
+        "name": "Зажигин Богдан Алексеевич",
+        "birth": {
+            "place": "Мурманск",
+            "state": "Россия",
+            "date": "2007"
+        },
+        "email": "zaboal@tuta.io",
+        "phone": "+79921955127",
+        "summary": "Более 4 лет пользуюсь линуксом. Выйду 19 февраля за плату от 400 ₽ в час.",
+        "label": "системный архитектор",
+        "location": {
+            "countryCode": "RU",
+            "city": "Санкт-Петербург",
+            "address": "м. Фрунзенская"
+        },
+        "profiles": [
+            {
+                "network": "github",
+                "url": "https://github.com/zaboal",
+                "username": "zaboal"
+            },
+            {
+                "network": "telegram",
+                "url": "https://t.me/zaboal",
+                "username": "zaboal"
+            },
+            {
+                "network": "discord",
+                "url": "https://discordapp.com/users/1024406341726515332",
+                "username": "zaboal"
+            },
+            {
+                "network": "skype",
+                "url": "https://join.skype.com/invite/NwTFxV6cilNp",
+                "username": "live:.cid.39785e1b3b6a312b"
+            },
+            {
+                "network": "git",
+                "url": "https://git.cringetech.net/z",
+                "username": "z@cringetech.net"
+            },
+            {
+                "network": "matrix",
+                "url": "https://matrix.to/#/@z:envs.net",
+                "username": "z@envs.net"
+            }
+        ]
+    },
+    "languages": [
+        {
+            "language": "Русский",
+            "fluency": "Master"
+        },
+        {
+            "language": "Английский",
+            "fluency": "Intermediate"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Разработка чат-ботов",
+            "level": "Advanced",
+            "keywords": [
+                "Discord",
+                "Telegram",
+                "Matrix",
+                "Golang",
+                "Python",
+                "TypeScript"
+            ]
+        },
+        {
+            "name": "Администрирование",
+            "level": "Intermediate",
+            "keywords": [
+                "Ansible",
+                "Debian",
+                "Docker",
+                "Nginx",
+                "Apache",
+                "CI/CD"
+            ]
+        },
+        {
+            "name": "Техписательство",
+            "level": "Beginner",
+            "keywords": [
+                "AsciiDoc",
+                "Markdown",
+                "Gherkin",
+                "XSLT",
+                "XHTML",
+                "CSS"
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "Продвижение",
+            "keywords": [
+                "Social Messangers Marketing",
+                "SEO",
+                "контент-планирование"
+            ]
+        },
+        {
+            "name": "Дизайн",
+            "keywords": [
+                "Inkscape",
+                "Kdenlive",
+                "иллюстрирование текста"
+            ]
+        }
+    ],
+    "certificates": [
+        {
+            "url": "https://www.coursera.org/account/accomplishments/verify/2C9K8KF5N9A2",
+            "name": "Introduction to Agile Development and Scrum",
+            "issuer": "IBM",
+            "date": "2022-04-20"
+        },
+        {
+            "url": "https://www.coursera.org/account/accomplishments/verify/M3CBR8BYAT55",
+            "name": "Introduction to Test and Behavior Driven Development",
+            "issuer": "IBM",
+            "date": "2022-06-08"
+        },
+        {
+            "url": "https://www.coursera.org/account/accomplishments/verify/RWMPE4WCAVFN",
+            "name": "Introduction to DevOps",
+            "issuer": "IBM",
+            "date": "2022-02-26"
+        }
+    ],
+    "projects": [
+        {
+            "name": "спо ⁃ дизайн ⁃ письмо",
+            "url": "https://matrix.to/#/#zbagab:matrix.org",
+            "description": "Личный межпротокольный медиалхолдинг на основе SEO и качественного брендинга",
+            "startDate": "2023-01",
+            "highlights": [
+                "собрал 250 участников",
+                "установил мост между Telegram, Discord и Matrix комнатами"
+            ],
+            "keywords": [
+                "Social Messangers Marketing",
+                "SEO",
+                "контент-планирование",
+                "Inkscape",
+                "Matterbridge",
+                "Telegram",
+                "Discord",
+                "Matrix"
+            ]
+        },
+        {
+            "name": "discord-gitlab и discord-telegraph",
+            "url": "https://git.cringetech.net/z?q=discord-",
+            "description": "Создавалка Issues на GitLab и регистратор на блог-платформе Telegraph в Discord",
+            "startDate": "2023-04-03",
+            "endDate": "2023-05-22",
+            "highlights": [
+                "ознакомил однокл.-а с программированием"
+            ],
+            "keywords": [
+                "discord.py",
+                "pyhon-gitlab",
+                "msgpack",
+                "yarl",
+                "dataclasses",
+                "telegraph-go",
+                "discordgo"
+            ],
+            "type": "application",
+            "roles": [
+                "тим-лид"
+            ]
+        },
+        {
+            "name": "bot-telegram_profile и database-schema_organization",
+            "url": "https://git.cringetech.net/z/bot-telegram_profile",
+            "description": "Личный кабинет условной орг. структуры в Telegram",
+            "startDate": "2022-11-23",
+            "endDate": "2022-12-21",
+            "keywords": [
+                "sqlite3",
+                "grammy",
+                "docker",
+                "bash"
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Автобиография",
+            "url": "https://zba.su/autobio",
+            "releaseDate": "2023-08-04"
+        },
+        {
+            "name": "Произношение директорий из FHS",
+            "url": "https://zba.su/fhs",
+            "releaseDate": "2023-01-14"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+name: update the resume gist for registry.jsonresume.org
+
+on: 
+  push:
+    paths:
+      - assets/data/resume.json
+
+jobs:
+  update-resume-gist:
+    runs-on: ubuntu-latest 
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          sparse-checkout: 'assets/data/resume.json' 
+          sparse-checkout-cone-mode: false
+      - uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.gist_token }}
+          gist_id: ${{ vars.resume_gist_id }}
+          file_path: assets/data/resume.json
