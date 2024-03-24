@@ -1,1 +1,1 @@
-../docs/en/readme.adoc
+../docs/en/profile-readme.adoc
