@@ -1,8 +1,9 @@
 // adresses shorts
-:wiki: https://w.wiki/
+:h: https://
+:wiki: {h}w.wiki/
 
 
-*на русском → link:docs/ru/readme.adoc[`./docs/ru/readme.adoc`]*
+*на русском → link:../ru/profile-readme.adoc[`./docs/ru/profile-readme.adoc`]*
 
 
 |===
