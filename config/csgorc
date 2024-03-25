@@ -1,0 +1,30 @@
+// забоал: комманды инициализации для
+// коунтер страйк глобал оффенсив 🄯 2023
+
+// link: /home/zaboal/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/autoexec.cfg
+
+
+// ограничение к/с
+fps_max "64"
+fps_max_menu "32"
+
+// чувствительность
+m_rawinput 1
+sensitivity 2.5000
+zoom_sensitivity_ratio_mouse 0.5
+
+// прицел
+cl_crosshair_t 1
+cl_crosshairstyle 3
+cl_crosshairgap_useweaponvalue 0
+cl_crosshairdot 1
+cl_crosshaircolor_r 255
+cl_crosshaircolor_g 255
+cl_crosshaircolor_b 255
+
+// очистка карты
+bind shift "+speed; r_cleardecals"
+
+// прыжок на колёсико
+bind mwheelup "+jump"
+bind mwheeldown "+jump"

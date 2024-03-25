@@ -1,0 +1,13 @@
+# link: /home/zaboal/.config/sxhkd/sxhkdrc
+
+super + t
+	gnome-terminal
+
+super + space
+	xfce4-appfinder
+
+super + {_,shift + }{h,j,k,l}
+	bspc node -{f,s} {west,south,north,east}
+
+super + {_,shift + }q
+	bspc node -{c,k}

@@ -1,0 +1,61 @@
+" забоал: комманды иницализации для
+" командного и графического вима 🄯 2023
+
+" команды максимально сокращены, а их
+" аргументы наоборот, полны.
+
+" link: /home/zaboal/.vimrc
+
+
+
+" ctrl-команды как везде
+so /usr/share/vim/vim90/mswin.vim
+
+
+" плагирование
+se loadplugins
+se packpath=~/Downloads/zaboal/vim
+
+
+" табуляция
+se tabstop=4
+se noexpandtab
+
+
+" внешнюха
+colo iceberg
+sy on
+se background=dark
+se noshowmode
+se number
+se cursorline
+se lines=32 columns=128
+se noswapfile
+
+" гтк-версия
+se guifont=PT\ Mono\ 16
+se guioptions-=T
+se guioptions-=m
+se guioptions-=r
+
+" аирлайн
+let g:airline_experimental = 1
+let g:airline_mode_map = {'__':' -','c':' c','i':' i','ic':' ic','ix':' i','n':' n','multi':' m','ni':' n','no':' n','R':' r','Rv':' rv','s':' s','S':' s','':' s','t':' t','v':' v','V':' v','':' v'}
+let g:airline_theme = 'iceberg'
+let g:airline_symbols_ascii = 1
+let g:airline_section_y = ''
+function! Noscrollbar(...)
+	let g:airline_section_z = '%{noscrollbar#statusline(8, " ", "=")}'
+endfunction
+call airline#add_statusline_func('Noscrollbar')
+
+
+" чистка пробелов перед записью
+au BufWritePre * {
+	:%s/\s\+$//e
+}
+
+" автосохранение
+let g:auto_save = 1
+let g:auto_save_events = ['InsertLeave']
+let g:auto_save_slient = 1
