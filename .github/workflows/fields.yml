@@ -3,7 +3,7 @@ name: update public profiles fields everywhere
 on: 
   push:
     paths:
-      - data/fields/*
+      - assets/fields/*
 
 jobs:
   sync-the-fields:
@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          sparse-checkout: 'data/fields' 
+          sparse-checkout: 'assets/fields' 
           sparse-checkout-cone-mode: false
       - name: sync bio
         run: |
@@ -23,4 +23,4 @@ jobs:
           -H "Authorization: Bearer ${{ secrets.profile_token }}" \
           -H "X-GitHub-Api-Version: 2022-11-28" \
           https://api.github.com/user \
-          -d "{\"bio\": \"$(<data/fields/bio)\"}"
+          -d "{\"bio\": \"$(<assets/fields/bio)\"}"
