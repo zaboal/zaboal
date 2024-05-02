@@ -11,10 +11,7 @@ super + @space
 	dmenu_run -nb "#000000" -nf "#FFFFFF" -sb "#FFFFFF" -sf "#000000"
 
 super + Escape
-	pkill -USR1 -x sxhkd
-
-super + alt + {q,r}
-	bspc {quit,wm -r}
+	pkill -USR1 -x sxhkd && bspc wm -r && polybar -r
 
 super + {_,shift + }w
 	bspc node -{c,k}
@@ -118,6 +115,6 @@ XF86AudioLowerVolume
 XF86AudioRaiseVolume
 	amixer set Master 5%+
 XF86AudioMute
-    	amixer set Master toggle
+    amixer set Master toggle
 {XF86MonBrightnessUp,XF86MonBrightnessDown}
 	brightnessctl set {5%+,5%-}
