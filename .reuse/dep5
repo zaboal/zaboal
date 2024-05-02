@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: zaboal's personal files
+Upstream-Contact: Bogdan Zažigin <zaboal@tuta.io>
+Source: https://github.com/zaboal/zaboal
+
+Files: docs/* fields/* assets/*
+Copyright: 2024 Bogdan Zažigin <zaboal@tuta.io>
+License:  CC-BY-NC-ND-4.0
+
+Files: config/* .github/*
+Copyright: 2024 Bogdan Zažigin <zaboal@tuta.io>
+License: 0BSD
