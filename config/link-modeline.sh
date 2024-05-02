@@ -1,17 +1,21 @@
 #! /bin/bash
-                                             
+
 #  _ _       _                             _      _ _            
 # | (_)_ __ | | __     _ __ ___   ___   __| | ___| (_)_ __   ___ 
 # | | | '_ \| |/ /____| '_ ` _ \ / _ \ / _` |/ _ \ | | '_ \ / _ \
 # | | | | | |   <_____| | | | | | (_) | (_| |  __/ | | | | |  __/
 # |_|_|_| |_|_|\_\    |_| |_| |_|\___/ \__,_|\___|_|_|_| |_|\___|
 #                                                                                                               
-# create symbolic links with vim-like modelines
-# for all files in the directory
+# create symbolic links with vim-like 
+# modelines, that match format like
+#
+#	link: ~/.config/nvim/init
+#
+#	link: /etc/vconsole.conf 
+#
+# for all files in the current directory
 
 
-# arguments
-directory=$1
 
 # link modeline regular expression
 regex="^.{2,3}link: \K\S+"
