@@ -1,0 +1,10 @@
+#! /bin/bash
+
+# link: ~/.xinitrc
+
+xsetroot -solid "#000000" & # set solid black wallpaper
+
+sxhkd &     # start hotkeys daemon
+polybar &   # start status bar
+
+exec bspwm  # finish init with starting the wm 
