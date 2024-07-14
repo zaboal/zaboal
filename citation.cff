@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: zaboal's public information and configurations
+message: >-
+  if you refer to the articles or the configs, cite them
+  using this metadata
+type: software
+authors:
+  - given-names: bogdan
+    family-names: zažigin
+    email: me@zba.su
+repository-code: 'https://github.com/zaboal/zaboal'
+url: 'https://zba.su/resume'
+license: CC-BY-NC-ND-4.0

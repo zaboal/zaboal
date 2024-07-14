@@ -9,9 +9,9 @@
 # create symbolic links with vim-like 
 # modelines, that match format like
 #
-#	link: ~/.config/nvim/init
+#	link: ~/.local/bin/link-modeline
 #
-#	link: /etc/vconsole.conf 
+#	link: /opt/zaboal/link-modeline
 #
 # for all files in the current directory
 

@@ -1,0 +1,11 @@
+# link: ~/.config/alacritty/alacritty.yml
+
+colors: 
+    primary:
+        background: '#24232f'
+        foreground: '#f4f3ff'
+
+font:
+    normal:
+        family: erus erusfont
+    size: 10

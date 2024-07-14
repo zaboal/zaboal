@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "xsessions",
+			"path": "../../../../../usr/share/xsessions"
+		}
+	],
+	"settings": {
+		"asciidoc.antora.enableAntoraSupport": false
+	}
+}

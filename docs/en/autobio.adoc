@@ -1,0 +1,133 @@
+// ----
+// uri-s cutting: "vk.com/id" is the static profile address prefix in vkontakte,
+// the social media; "qrwp.org" is the multilingual redirect to wikipedia
+// (check the page's existance on russian first).
+:h: https://
+:v: {h}vk.com/id
+:q: qrwp.org/
+:w: {h}ru.{q}
+:e: {h}en.{q}
+// ----
+
+:sch36: {h}s36mur.gosuslugi.ru[the school № 36]
+:sch519: {h}school519.spb.ru[the school № 519]
+
+:table-caption!: 
+
+
+the names are written in the {e}Personal_name#Eastern_name_order[eastern order],
+and the dates are in the iso format of `yy-mm-dd`.
+also "i" is removed as it's already all about me. 
+i'd love if you submit any found typo to me@zba.su.
+
+.autobiography of zažigin bogdan alekseevič (burner theodore alexson) aka zaboal
+[%autowidth,frame=none,options=header]
+[cols="m,s,,"]
+|===
+
+| y.o.
+| family and moving
+| school
+| selfimprovement and work
+
+
+| 0
+| 
+a half-azeri 18 y.o {v}48604722[bajko irina] and a russian 19 y.o. {v}75916[zažigin aleksej] in `ru-mur`
+— {w}переношенная_беременность[for two weeks later] — 
+`07-01-15` called me zažigin bogdan.
+|
+|
+
+
+| 3
+| 
+they broke up.
+i'd been living with mum, but often been visiting dad.
+| i'd been skipping the kindergartens {h}detsad32.murm.prosadiki.ru[№ 32] and {h}sadik45.com.ru[№ 45] at winter and at summer.
+|
+
+
+| 8
+| 
+| 
+got into 1st grade of the {h}gim7.murm.eduru.ru[school № 17].
+was deducted in cause of the teacher that called me an idiot.
+|
+
+
+| 9
+| 
+`15-12-04` mum married with {v}69725108[gorenûk aleksandr], 
+and i've got a milk brother — artëma
+| 2nd gr. of {sch36}.
+|
+
+
+| 12
+| 
+| 
+6th gr. of {sch36}.
+in cause of the {w}страх_сцены[sociophoby] and of the negative experience in the 2nd grade, 
+in surrouding of the competive classmates,
+and unhelpful teacher —
+i was broke,
+been visiting the director with the parents many times
+|
+`19-10--` {h}web.archive.org/web/20191009105608/https://twitter.com/quora_p/status/1181883473419784192[tried] to maintain a business channel across `twitter`, `vk`, and `telegram`.
+
+
+| 13
+| we moved to `ru-spe`  nearby the frunzenskaâ station
+|
+7th gr. of {sch519}.
+
+insulted the classmates on `viber`.
+|
+`20-09--` a want to hack a wi-fi with {w}kali_linux[`kali` `linux`], 
+which i couldn't install on the my only one pc, 
+matched with the father's franchising of {h}algoritmika.org["algoritmika"]; 
+there were {w}thinkpad[`thinkpad`s `t430`] with {w}lubuntu[`lubuntu`], 
+and i took one:
+explored {w}debian[`debian`], {w}opensuse[`opensuse`], and {w}fedora[`fedora`], {w}arch_linux[`arch`], and {w}manjaro[`manjaro`]; 
+were writing with {w}vim[`vim`] in {w}go[`go`], {w}python[`python`], {w}typescript[`typescript`].
+
+`20-10--` been learning {w}эсперанто[esperanto]. 
+
+`20-11--` {h}drive.google.com/file/d/1YbEp-tSeupaz5eq0LdqJFCz_UslehReN/view?usp=sharing[made] an ad webpage for the some "interdemocratic constitution";
+and been promoting it in `discord`,
+познакомился с будущим сисадмином из `yandex.cloud`;
+он был бесплатным хостом для будущих проектов.
+
+
+| 14
+| прилетел в `ru-mur` на лето к бабушкам и дедушкам
+| 8а {sch519}.
+|
+`21-06--` для {w}ложбан[ложбана] {h}mw-live.lojban.org/index.php?title=Эталонная_Грамматика_Ложбана&oldid=124459[форматировал] «эталонную грамматику», 
+и {h}discord.com/channels/230498134843850762/230498134843850762/857681719896047636[нарисовал] в {w}inkscape[`inkscape`] аватар их официального `discord` сервера.
+
+`21-10--` попробовал создать англоязычное виртуальное государство
+на базе `discord` и `google`.
+
+
+| 15
+| 
+| 9а {sch519}.
+| 
+`22-03--` {h}drive.google.com/file/d/1KQ39MeP5m0otGypt1YLjnwLSWVazX3Lb/view?usp=drive_link[попробовал] создать юридическую энциклопедию на базе {w}wikimedia[`wikimedia`] со скином {h}mediawiki.org/wiki/Skin:Citizen[`citizen`].
+
+`22-07--` {h}sites.google.com/view/zaboal[попробовал] создать бюро медицинского интернета вещей с открытым исходным кодом;
+на базе `telegram`, `google sites`, `openproject` и `gitea`; 
+сопровождая проектной документацией по госту.
+
+| 16
+| 
+| 
+10а {sch519}.
+
+бросил школу в середине учебного года,
+месяц уговаривая маму.
+| {h}telesco.pe/zbapub/222[устроился] пешим курьером в яндекс еду.
+
+|===

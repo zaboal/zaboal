@@ -1,10 +1,12 @@
 #! /bin/bash
-
 # link: ~/.xinitrc
 
-xsetroot -solid "#000000" & # set solid black wallpaper
+[[ -f ~/.Xresources ]] && xrdb -merge -I$HOME ~/.Xresources
+xrandr --output eDP-1 --mode 1280x720   # hd resoltion
 
-sxhkd &     # start hotkeys daemon
-polybar &   # start status bar
+xsetroot -solid "#34333f" &             # dark-grey wallpaper
 
-exec bspwm  # finish init with starting the wm 
+sxhkd &     		                    # hotkeys daemon
+polybar &   		                    # status bar
+
+exec bspwm                              # finish with starting the wm

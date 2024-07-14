@@ -1,17 +1,20 @@
 # link: ~/.config/sxhkd/sxhkdrc
-
+# code: language=bash
 
 super + Return
-	tdrop -mar -w -4 -y 16 kitty
+	tdrop -mar -w -4 alacritty
+
+super + alt + Return
+	alacritty
 
 Print 
 	flameshot gui
 
 super + @space
-	dmenu_run -nb "#000000" -nf "#FFFFFF" -sb "#FFFFFF" -sf "#000000"
+	jgmenu_run
 
 super + Escape
-	pkill -USR1 -x sxhkd && bspc wm -r && polybar -r
+	pkill -USR1 -x sxhkd && bspc wm -r && pkill -USR1 -x polybar
 
 super + {_,shift + }w
 	bspc node -{c,k}
@@ -21,7 +24,7 @@ super + m
 
 # send the newest marked node to the newest preselected node
 super + y
-	bspc node newest.marked.local -n newest.!automatic.local
+	bspc node  -n newest.!automatic.local -t -tiled
 
 # swap the current node and the biggest window
 super + g
@@ -111,10 +114,10 @@ super + {Left,Down,Up,Right}
 
 
 XF86AudioLowerVolume
-	amixer set Master 5%-
+	amixer set Master 12.5%-
 XF86AudioRaiseVolume
-	amixer set Master 5%+
+	amixer set Master 12.5%+
 XF86AudioMute
     amixer set Master toggle
 {XF86MonBrightnessUp,XF86MonBrightnessDown}
-	brightnessctl set {5%+,5%-}
+	brightnessctl set {12.5%+,12.5%-}

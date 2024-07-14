@@ -1,0 +1,23 @@
+// link: ~/.config/picom.conf
+// code: language=libconfig
+
+wintypes:
+{
+    normal: {
+        opacity = 0.95;
+        blur-background = false;
+        focused = false;
+    };
+    dock: {
+        opacity = 0.75;
+        blur-background = false;
+        focused = true;
+    };
+};
+
+blur:
+{
+    method = "box";
+    size = 1;
+    deviation = 0.9;
+};
