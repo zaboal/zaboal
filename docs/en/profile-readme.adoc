@@ -1,1 +1,3 @@
-image:https://pixel-profile.vercel.app/api/github-stats?username=zaboal[test]
+*abbreviations*:
+dc:: discord
+tg:: telegram
