@@ -1,4 +1,4 @@
-.*abbreviations*
+.*disabbreviations of the repository names*
 [%collapsible]
 ====
 [horizontal]
