@@ -1,0 +1,45 @@
+:h: https://
+
+== desktop image:{h}debian.org/logos/button-mini.png[(debian)]
+
+=== environmanet installation
+
+1. 
+
+2.  download this repository
++
+[,console]
+----
+git clone https://github.com/zaboal/zaboal
+cd zaboal
+----
+
+3.  launch the linker
++
+CAUTION: make sure to preserve your existing config files
++
+[,console]
+----
+cd config/desktop
+./../../scripts/link-modeline.sh
+----
+
+
+=== external programs
+
+[,console]
+----
+sudo apt install flatpak
+    
+flatpak remote-add --if-not-exists \
+    flathub                        \ 
+    https://flathub.org/repo/flathub.flatpakrepo
+    
+flatpak remote-add --if-not-exists \
+    flathub-beta                   \ 
+    htpps://flathub.org/beta-repo/flathub-beta.flatpakrepo
+----
+
+
+
+
