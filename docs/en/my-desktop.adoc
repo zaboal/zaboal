@@ -4,7 +4,13 @@
 
 === environmanet installation
 
-1. 
+1. make xinitrc choosable from a login screen
++
+[,console]
+----
+wget "https://aur.archlinux.org/cgit/aur.git/plain/xinitrcsession-helper?h=xinit-xsession" -O /usr/bin/xinitrcsession-helper
+wget "https://aur.archlinux.org/cgit/aur.git/plain/xinitrc.desktop?h=xinit-xsession" -O /usr/share/xsessions/xinitrc.desktop
+----
 
 2.  download this repository
 +
