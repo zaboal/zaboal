@@ -13,10 +13,8 @@
     git clone https://github.com/zaboal/zaboal
     cd zaboal
     ```
-
+    
 3.  launch the linker
-    > [!CAUTION]
-    > make sure to preserve your existing config files
     ```sh
     cd config/desktop
     ./../../scripts/link-modeline.sh
