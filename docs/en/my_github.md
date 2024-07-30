@@ -1,5 +1,4 @@
 <details>
-
 <summary>disabbreviations of the repository names</summary>
 
 |    |           |
@@ -9,3 +8,7 @@
 | mc | minecraft |
 
 </details>
+
+---
+
+repositories rather than [`zaboal`](github.com/zaboal/zaboal) and [`.github`](github.com/zaboal/.github) are purposed for contributors
