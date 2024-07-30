@@ -1,11 +1,15 @@
+- [другая версия на русском](../ru/my-github.adoc)
+
+---
+
 <details>
 <summary>disabbreviations of the repository names</summary>
 
-|    |           |
-| -- | --------- |
-| dc | discord   |
-| tg | telegram  |
-| mc | minecraft |
+| abbr	| disabbr	| scope			|
+| -		| -			| ----------	|
+| dc	| discord	| messengers	|
+| tg	| telegram	| 				|
+| mc	| minecraft	| games			|
 
 </details>
 
