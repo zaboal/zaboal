@@ -1,4 +1,4 @@
-- [другая версия на русском](../ru/my-github.adoc)
+[другая версия на русском](../ru/my-github.adoc)
 
 ---
 
@@ -13,5 +13,5 @@
 
 </details>
 
-> <sup>repos, barring [`zaboal`](https://github.com/zaboal/zaboal) and
-[`.github`](https://github.com/zaboal/.github), are welcome for contribs<sup>
+repos, barring [`zaboal`](https://github.com/zaboal/zaboal) and
+[`.github`](https://github.com/zaboal/.github), are welcome for contribs.
