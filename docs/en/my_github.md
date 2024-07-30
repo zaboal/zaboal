@@ -11,7 +11,5 @@
 
 ---
 
-<small>
-repositories rather than [`zaboal`](github.com/zaboal/zaboal) and
-[`.github`](github.com/zaboal/.github) are purposed for contributors
-</small>
+> <sup>repositories rather than [`zaboal`](github.com/zaboal/zaboal) and
+[`.github`](github.com/zaboal/.github) are purposed for contributors<sup>
