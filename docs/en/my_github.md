@@ -9,5 +9,5 @@
 
 </details>
 
-> <sup>repositories rather than [`zaboal`](github.com/zaboal/zaboal) and
-[`.github`](github.com/zaboal/.github) are welcome for contributions<sup>
+> <sup>repositories rather than [`zaboal`](https://github.com/zaboal/zaboal) and
+[`.github`](https://github.com/zaboal/.github) are welcome for contributions<sup>
