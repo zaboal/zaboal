@@ -10,4 +10,4 @@
 </details>
 
 > <sup>repos, barring [`zaboal`](https://github.com/zaboal/zaboal) and
-[`.github`](https://github.com/zaboal/.github), are welcome for contributions<sup>
+[`.github`](https://github.com/zaboal/.github), are welcome for contribs<sup>
