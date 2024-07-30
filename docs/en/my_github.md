@@ -1,8 +1,11 @@
-.*disabbreviations of the repository names*
-[%collapsible]
-====
-[horizontal]
-dc:: discord
-tg:: telegram
-mc:: minecraft
-====
+<details>
+
+<summary>disabbreviations of the repository names</summary>
+
+|    |           |
+| -- | --------- |
+| dc | discord   |
+| tg | telegram  |
+| mc | minecraft |
+
+</details>
