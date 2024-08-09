@@ -1,4 +1,4 @@
-name: Waka Readme
+name: wakatime stats in readme
 
 on:
   # for manual workflow trigger
@@ -9,7 +9,6 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master # this action name
