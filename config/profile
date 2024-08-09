@@ -1,0 +1,5 @@
+#! /bin/bash
+# link: ~/.profile
+
+export TERM=allacrity
+complete -C /usr/bin/nomad nomad

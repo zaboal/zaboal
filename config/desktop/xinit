@@ -1,0 +1,15 @@
+#! /bin/bash
+# link: ~/.xinitrc
+
+root=~/git/zaboal/config/desktop
+
+xrdb ~/.Xresources
+xrandr --output eDP-1 --mode 1280x720
+
+xsetroot -solid "#34333f" &
+
+sxhkd -c $root/sxhkd &
+polybar -c $root/polybar &
+
+exec bspwm -c $root/bspwm
+  

@@ -1,11 +1,14 @@
 # link: ~/.config/sxhkd/sxhkdrc
-# code: language=bash
+# code: language=sxhkdrc
+
+ctrl + alt + Delete
+	kill -9 -1
 
 super + Return
-	tdrop -mar -w -4 alacritty
+	tdrop -mar -w -4 xdg-terminal-exec
 
 super + alt + Return
-	alacritty
+	xdg-terminal-exec
 
 Print 
 	flameshot gui
