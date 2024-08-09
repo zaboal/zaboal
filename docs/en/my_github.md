@@ -18,4 +18,9 @@ repos, barring [`zaboal`](https://github.com/zaboal/zaboal) and
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 the [`zaboal`](https://github.com/zaboal/zaboal) repo's licensing is in [`/.reuse/dep5`](/.reuse/dep5).
