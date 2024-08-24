@@ -22,5 +22,6 @@ in the moment.
 
 ---
 
-So, in the face of death, I think that I've been living right the way my
-consciousness has chosen, rather than that I had to accomplish something.
+So, in the face of the endless unconsciousness, 
+I think that I've been living right how I got to, 
+rather than that I had to accomplish something.
