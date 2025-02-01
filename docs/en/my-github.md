@@ -1,9 +1,5 @@
-[другая версия на русском](/docs/ru/my-github.adoc)
-
----
-
 <details>
-<summary>disabbreviations of the repository names</summary>
+<summary><h4>Disabbreviation of the slugs</h4></summary>
 
 | abbr	| disabbr	| scope			|
 | -		| -			| -         	|
@@ -13,14 +9,4 @@
 
 </details>
 
-repos, barring [`zaboal`](https://github.com/zaboal/zaboal) and
-[`.github`](https://github.com/zaboal/.github), are welcome for contribs.
-
----
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-the [`zaboal`](https://github.com/zaboal/zaboal) repo's licensing is in [`/.reuse/dep5`](/.reuse/dep5).
+Repos, excluding [`zaboal`](https://github.com/zaboal/zaboal) and [`.github`](https://github.com/zaboal/.github), are welcome for contribs. If you seek for intensive enhancing of your résumé, consider paying attention to the [project #5](https://github.com/users/zaboal/projects/5?pane=info).
