@@ -1,26 +1,39 @@
-[другая версия на русском](/docs/ru/my-github.adoc)
-
----
-
 <details>
-<summary>disabbreviations of the repository names</summary>
+<summary><h4>Disabbreviation of the slugs</h4></summary>
 
-| abbr	| disabbr	| scope			|
-| -		| -			| -         	|
-| dc	| discord	| messengers	|
-| tg	| telegram	| 				|
-| mc	| minecraft	| games			|
+<table>
+    <thead>
+        <tr>
+            <th>abbr</th>
+            <th>disabbr</th>
+            <th>scope</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>dc</td>
+            <td>discord</td>
+            <td>messengers</td>
+        </tr>
+        <tr>
+            <td>tg</td>
+            <td>telegram</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>mc</td>
+            <td>minecraft</td>
+            <td>games</td>
+        </tr>
+    </tbody>
+</table>
 
 </details>
-
-repos, barring [`zaboal`](https://github.com/zaboal/zaboal) and
-[`.github`](https://github.com/zaboal/.github), are welcome for contribs.
-
----
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-the [`zaboal`](https://github.com/zaboal/zaboal) repo's licensing is in [`/.reuse/dep5`](/.reuse/dep5).
+Repos, excluding 
+<a href="//github.com/zaboal/zaboal"><code>zaboal</code></a> and
+<a href="//github.com/zaboal/.github"><code>.github</code></a>, 
+are welcome for contribs. 
+If you seek for 
+intensive enhancing of your résumé, 
+consider paying attention to
+the <a href="//github.com/users/zaboal/projects/5?pane=info">project #5</a>.
