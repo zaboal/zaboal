@@ -1,1 +1,1 @@
-../docs/en/my_github.md
+../docs/en/my-github.md
