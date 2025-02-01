@@ -10,7 +10,7 @@ the <a href="//github.com/users/zaboal/projects/5?pane=info">project #5</a>.
 </h4>
 
 <details>
-<summary>Disabbreviation of the slugs</summary>
+<summary><h4>Disabbreviation of the slugs</h4></summary>
 
 <table>
     <thead>
