@@ -50,7 +50,7 @@ super + ctrl + {m,x,y,z}
 #
 
 # focus the node in the given direction
-super + {_,shift + }{Left,Down,Up,Right}
+super + {_,shift + }{h,j,k,l}
 	bspc node -{f,s} {west,south,north,east}
 
 # focus the node for the given path jump
@@ -123,4 +123,4 @@ XF86AudioRaiseVolume
 XF86AudioMute
     amixer set Master toggle
 {XF86MonBrightnessUp,XF86MonBrightnessDown}
-	brightnessctl set {12.5%+,12.5%-}
+	brightnessctl set {10%+,1%-}
