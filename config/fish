@@ -28,7 +28,7 @@ gpgconf --launch gpg-agent
 
 function fish_prompt
 	echo 
-	set -l symbol ' $ '
+	set -l symbol ' '
 	set -l color $fish_color_cwd
 	if fish_is_root_user
 		set symbol ' # '
