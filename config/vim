@@ -10,7 +10,7 @@
 
 
 " ctrl-команды как везде
-so /usr/share/vim/vim90/mswin.vim
+so /usr/share/vim/vim91/mswin.vim
 
 
 " плагирование
