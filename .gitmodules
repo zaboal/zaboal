@@ -1,0 +1,57 @@
+[submodule "vim_airline"]
+	path = config/vim/pack/zaboal/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "vim/pack/zaboal/start/fugitive"]
+	path = config/vim/pack/zaboal/start/fugitive
+	url = https://tpope.io/vim/fugitive.git
+[submodule "vim/pack/zaboal/start/goyo"]
+	path = config/vim/pack/zaboal/start/goyo
+	url = https://github.com/junegunn/goyo.vim
+[submodule "vim/pack/zaboal/start/supertab"]
+	path = config/vim/pack/zaboal/start/supertab
+	url = https://github.com/ervandew/supertab
+[submodule "vim/pack/zaboal/start/languagetool"]
+	path = config/vim/pack/zaboal/start/languagetool
+	url = https://github.com/dpelle/vim-languagetool
+[submodule "vim/pack/zaboal/start/asciidoctor"]
+	path = config/vim/pack/zaboal/start/asciidoctor
+	url = https://github.com/habamax/vim-asciidoctor
+[submodule "vim/pack/zaboal/start/delimitmate"]
+	path = config/vim/pack/zaboal/start/delimitmate
+	url = https://github.com/raimondi/delimitmate
+[submodule "vim/pack/zaboal/start/autocomplpop"]
+	path = config/vim/pack/zaboal/start/autocomplpop
+	url = https://github.com/vim-scripts/AutoComplPop
+[submodule "vim/pack/zaboal/start/typewriter"]
+	path = config/vim/pack/zaboal/start/typewriter
+	url = https://github.com/logico/typewriter-vim
+[submodule "vim/pack/zaboal/start/yin-yang"]
+	path = config/vim/pack/zaboal/start/yin-yang
+	url = https://github.com/pgdouyon/vim-yin-yang
+[submodule "vim/pack/zaboal/start/automkdir"]
+	path = config/vim/pack/zaboal/start/automkdir
+	url = https://github.com/datawraith/auto_mkdir
+[submodule "vim/pack/zaboal/start/indent-guides"]
+	path = config/vim/pack/zaboal/start/indent-guides
+	url = https://github.com/preservim/vim-indent-guides
+[submodule "vim/pack/zaboal/start/auto-save"]
+	path = config/vim/pack/zaboal/start/auto-save
+	url = https://github.com/907th/vim-auto-save
+[submodule "vim/pack/zaboal/start/bubblegub"]
+	path = config/vim/pack/zaboal/start/bubblegub
+	url = https://github.com/baskerville/bubblegum
+[submodule "vim/pack/zaboal/start/airline-themes"]
+	path = config/vim/pack/zaboal/start/airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "vim/pack/zaboal/start/noscrollbar"]
+	path = config/vim/pack/zaboal/start/noscrollbar
+	url = https://github.com/gcavallanti/vim-noscrollbar
+[submodule "vim/pack/zaboal/start/iceberg"]
+	path = config/vim/pack/zaboal/start/iceberg
+	url = https://github.com/cocopon/iceberg.vim
+[submodule "vim/pack/main/start/startify"]
+	path = config/vim/pack/zaboal/start/startify
+	url = https://github.com/mhinz/vim-startify
+[submodule "vim/pack/zaboal/start/sxhkd"]
+	path = config/vim/pack/zaboal/start/sxhkd
+	url = https://github.com/kovetskiy/sxhkd-vim
