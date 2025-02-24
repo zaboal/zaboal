@@ -10,8 +10,8 @@ super + Return
 super + alt + Return
 	xdg-terminal-exec
 
-Print 
-	flameshot gui
+Print
+	bash -c 'maim $([ $(xdotool getwindowfocus) = $(xdotool getmouselocation | cut -d" " -f4 | cut -c8-) ] && echo "-i $(xdotool getwindowfocus)") | xclip -sel c -t image/png'
 
 super + @space
 	jgmenu_run
